@@ -1,0 +1,33 @@
+.food {
+    position: relative;
+    display: flex;
+    border: 2px solid #7878b3;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.food-info {
+    position: relative;
+    margin-left: 10px;
+}
+
+.l-height {
+    line-height: 10px;
+}
+
+.btn-details {
+    background-color: #0b727e;
+    border: 2px solid #03a9bb;
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+    color: white;
+    cursor: pointer;
+    font-size: large;
+    position: absolute;
+    bottom: 10px;
+}
+
+.btn-details:hover {
+    background-color: #0fa2b3;
+}
