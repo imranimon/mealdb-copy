@@ -1,4 +1,4 @@
-# Copy of 'TheMealDB' => Simple React App
+# 'TheMealDB' Clone ## Simple React App
 
 ## Available Scripts
 
